@@ -6,7 +6,9 @@
 - **📝 Descrição:** Acesso a áreas fora do mapa.
   
   ## ⚠ Bug encontrado
-- Logo no inicio do jogo, ao encontrar uma estatua de tartaruga com algumas pessoas em cima, você pode subir no casco da tartaruga e usar os 3 pulos para alcançar as barras de pedra nas laterais da área, o que te dá acesso a uma região com acesso ao "limbo". Ao cair você é teleportado para a próxima parte do tutorial, skipando o pequeno puzzle inicial.
+- Logo no início do jogo, próximo à estátua de uma tartaruga com pessoas sobre ela, o jogador pode subir no casco da tartaruga e, utilizando os três pulos disponíveis, alcançar as bordas de pedra laterais da área. Isso permite acessar uma região não-intencional do mapa — uma área sem colisão ou limites definidos “limbo”.
+
+Ao cair nesse espaço, o personagem é automaticamente teleportado para a próxima etapa do tutorial, pulando um pequeno puzzle obrigatório presente logo após passar por essa estátua.
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6bc7f255-ad3c-4457-b4a7-6a9c5c18619c" />
 
