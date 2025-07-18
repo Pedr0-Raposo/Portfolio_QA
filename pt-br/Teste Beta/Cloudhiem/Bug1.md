@@ -5,7 +5,7 @@
 
 - **📝 Descrição:** Acesso a áreas fora do mapa.
   
-  ## ⚠ Bug encontrado
+  ## ⚠ Bug encontrado - 🔸 Exploit / Design e Visual – Permite acessar áreas não previstas pelo design e revela falhas visuais 
 - Logo no início do jogo, próximo à estátua de uma tartaruga com pessoas sobre ela, o jogador pode subir no casco da tartaruga e, utilizando os três pulos disponíveis, alcançar as bordas de pedra laterais da área. Isso permite acessar uma região não-intencional do mapa — uma área sem colisão ou limites definidos “limbo”.
 
 Ao cair nesse espaço, o personagem é automaticamente teleportado para a próxima etapa do tutorial, pulando um pequeno puzzle obrigatório presente logo após passar por essa estátua.
