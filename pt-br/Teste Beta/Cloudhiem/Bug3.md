@@ -1,7 +1,14 @@
+# 🎮 Clouheim - Beta
 
+- **📅 Data do Beta:** 18/07/2025 - 21/07/2025
+- **🖥️ Plataforma:** PC
 
+- **📝 Descrição:** Estrutura com colisão fora dos limites após salto na montanha
+  
+  ## ⚠ Bug encontrado - 🔸 Exploit / Design e Visual – Permite acessar áreas não previstas pelo design e revela falhas visuais 
+Na área da montanha à esquerda, após utilizar o mecanismo de salto, é possível escalar a encosta até o ponto máximo permitido pelo terreno. A partir dali, ao pular para a esquerda, o jogador atravessa um cânion e alcança uma estrutura aparentemente fora dos limites do mapa. Surpreendentemente, essa estrutura possui colisão, permitindo caminhar sobre ela.
 
-Subindo pela montanha da esquerda  após usar o mecanismo de salto você percorre ela eté não conseguir subir mais e pula para a esquerda, atravessando o canion, por incrivel que pareça aquela estrutura tem colisão e é possivel andar nela. O lado ruim é que tem apenas mais uma vista direta para o "limbo".
+No entanto, não há continuidade no cenário, e há apenas uma visão direta para o chamado "limbo". Caso o jogador caia dessa estrutura, ele é automaticamente teleportado para o início da fase atual.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29cf5864-840c-4ee9-b30c-1e2e645797a7" />
 
