@@ -14,3 +14,4 @@
 
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36b48cb8-9a87-438f-9950-4b7b9a877ffa" />
 
+[Assista ao vídeo no YouTube]([https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ))
