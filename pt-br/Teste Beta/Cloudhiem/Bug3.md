@@ -18,4 +18,4 @@ No entanto, não há continuidade no cenário, e há apenas uma visão direta pa
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dae45f9b-5355-44a8-9022-b280680441eb" />
 
-[Assista ao vídeo no YouTube]([https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ))
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ)
