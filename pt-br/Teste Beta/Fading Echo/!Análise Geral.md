@@ -19,6 +19,9 @@ Fluidez da interface (menus, HUD, legendas)
 
 Desempenho técnico inicial (loadings, FPS, travamentos)
 
+<img width="225" height="139" alt="image" src="https://github.com/user-attachments/assets/52968b2e-f082-4a08-a0e5-067d0e41ff38" />
+
+
 3. Jogabilidade (Gameplay)
 
 Controles: resposta, precisão, possíveis atrasos ou conflitos
