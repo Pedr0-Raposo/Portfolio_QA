@@ -31,6 +31,6 @@ I participate in beta tests and explore games in search of bugs and glitches.
 ## 📬 Contact
 - ✉️ Email: [pedroa.raposo20@gmail.com](mailto:pedroa.raposo20@gmail.com)
 - Discord [.tiopedro] ou [TioPedro#0616] 
-- Youtube [Meu Canal](https://www.youtube.com/@tiopedro7759)
+- Youtube [My Channel](https://www.youtube.com/@tiopedro7759)
 
 
