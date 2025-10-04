@@ -19,4 +19,4 @@ When falling into this space, the character is automatically teleported to the n
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef824705-f445-4b17-9b35-5b7a473fc4e7" />
 
-[Watch in YouTube](https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ) 🕦 00:00
+[Watch in YouTube]( https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ ) 🕦 00:00
