@@ -21,4 +21,4 @@ teleported back to the start of the current stage.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dae45f9b-5355-44a8-9022-b280680441eb" />
 
-[Watch in YouTube](https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ) 🕦 01:55
+[Watch in YouTube](https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ ) 🕦 01:55
