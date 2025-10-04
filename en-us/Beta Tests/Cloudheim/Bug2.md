@@ -15,5 +15,5 @@ This happens when using the triple jump (a character mechanic) at the top of the
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8351c39-24d2-4b42-a0a9-2fcfdd117df2" />
 
-[Watch in YouTube](https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ) 🕦 01:35
+[Watch in YouTube](https://www.youtube.com/watch?v=LYxyE72VmuM](https://youtu.be/jsO9gqFxjgQ ) 🕦 01:35
 
