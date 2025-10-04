@@ -1,11 +1,11 @@
 # 🎮 Fading Echo - Alpha
 
-📅 Beta Dates: 09/29/2025 - 10/19/2025
+📅 Alpha Dates: 09/29/2025 - 10/19/2025
 
 🖥️ Platform: PC
 
-📝 Description: accessing areas outside the map
+📝 Description: clipping through the wall
 
 ⚠ Bug found
 
-Above the green waterfall, by using the water form and absorbing the toxic water (which makes you jump higher), you can jump onto part of the wall that gives you access to a series of other platforms. With good parkour skills, you can use these to reach areas outside the map.
+Facing the pedestal that starts the conversation with “Vellun,” turn to the right and you’ll find a staircase that splits with a door in the middle. Go up the left staircase and follow it to the end of the wall. Turn into water form, slide under the wall, and switch back to human form. You’ll notice that your character’s body is halfway inside the ground. If you turn into water form again while holding the move-forward button, your character will fall through the floor, giving you access to a “bugged” area.
