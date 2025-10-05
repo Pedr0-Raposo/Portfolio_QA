@@ -12,5 +12,4 @@ Honestly, this is the funniest bug I found. After absorbing the fire element, th
 
 <img width="1904" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc4c329c-06fe-4f5c-b160-0a8a3e695b98" />
 
-Watch on YouTube
- 🕦 07:54
+[Watch in YouTube](https://youtu.be/hgmzQxBSL5o) 🕦 07:54
