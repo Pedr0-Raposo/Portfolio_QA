@@ -10,4 +10,4 @@
 
   <img width="1393" height="917" alt="image" src="https://github.com/user-attachments/assets/1812797a-e171-47e9-ad53-314fc07416ad" />
 
-[Assista no Youtube](https://www.youtube.com/watch?v=hgmzQxBSL5o) 
+[Assista no Youtube](https://www.youtube.com/watch?v=hgmzQxBSL5o) 🕦 07:25
