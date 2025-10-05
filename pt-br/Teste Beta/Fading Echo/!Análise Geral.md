@@ -28,7 +28,7 @@ Duração total de gameplay: 6,5h
 
 <img width="203" height="472" alt="image" src="https://github.com/user-attachments/assets/23ff22aa-7ff9-4c6a-91f0-1e21e1129731" />
 
-  Com as minhas configurações (Ryzen 7 2700, Nvidia GTX 1660 Super, 16GB RAM). O FPS  permanece em uma variavel de 50 a 60 na maior parte do jogo mesmo na qualidade "Épica" e uma queda de FPS pode acontecer quando eu movimento a câmera muito rápido.
+  Com as minhas configurações (Ryzen 7 2700, Nvidia GTX 1660 Super, 16GB RAM). O FPS  permanece em uma variavel de 30 a 50 na maior parte do jogo mesmo na qualidade "Épica" e uma queda de FPS pode acontecer quando eu movimento a câmera muito rápido.
 
 - **3. Level Design**
 
@@ -42,6 +42,7 @@ Por falar em exploração, o jogo até possue alguns baús, mas eles não estão
 
 
 As janelas de dialogo do modo "Fading Echo" me deixam um pouco incomodados por conta do espaço em que ocupa na tela, o modo "clásico" já é mais agradavel por não ocupar a tela me dando mais espaço para apreciar o designe do jogo.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09e6f197-b122-4b38-bc33-78b4dc795efe" />
 
 As legendas parecem estar todas certas, e sincronizadas com o áudio do jogo, só pediria para vocês pensarem em fazer traduções e dulagens para outras linguas como o português se tiverem a oportunidade. 
 
