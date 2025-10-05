@@ -12,5 +12,4 @@ In the area where we learn to use the “CannonBall” ability, it’s possible 
 
 <img width="1899" height="957" alt="image" src="https://github.com/user-attachments/assets/51b145e2-c1df-4a9e-b8e8-3035e3fdaaff" />
 
-Watch on YouTube
- 🕦 05:13
+[Watch in YouTube](https://youtu.be/hgmzQxBSL5o) 🕦 05:13
