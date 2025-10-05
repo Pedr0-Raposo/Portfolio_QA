@@ -26,7 +26,7 @@ Even when playing on “Epic” settings, reopening the menu always shows “Low
 
 <img width="239" height="472" alt="image" src="https://github.com/user-attachments/assets/33f71c3f-6fba-4a89-b776-b01662266a54" /> <img width="203" height="472" alt="image" src="https://github.com/user-attachments/assets/23ff22aa-7ff9-4c6a-91f0-1e21e1129731" />
 
-With my configuration (Ryzen 7 2700, Nvidia GTX 1660 Super, 16GB RAM), FPS remains between 50 and 60 most of the time, even on “Epic” quality, though a brief FPS drop may occur when moving the camera quickly.
+With my configuration (Ryzen 7 2700, Nvidia GTX 1660 Super, 16GB RAM), FPS remains between 30 and 50 most of the time, even on “Epic” quality, though a brief FPS drop may occur when moving the camera quickly.
 
 - **3. Level Design**
 
@@ -39,6 +39,7 @@ In addition, there are several areas that can be “invaded” by using the wate
 - **4. Interface and User Experience**
 
 The dialogue windows in “Fading Echo” mode feel a bit uncomfortable due to the amount of space they take up on screen. The “Classic” mode is more pleasant, as it doesn’t obstruct the view and allows more appreciation of the game’s design.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3468c6c-244f-418d-8a08-84fd1793e5df" />
 
 The subtitles appear to be correct and well-synchronized with the audio. I would only suggest considering translations and voice-overs into other languages, such as Portuguese, if possible.
 
