@@ -12,4 +12,4 @@
 
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9724aa4-fa1c-4c2e-9f2b-700b023ac07b" />
 
-[Watch in YouTube](https://youtu.be/hgmzQxBSL5o) 🕦 02:45
+[Assista no YouTube](https://youtu.be/hgmzQxBSL5o) 🕦 02:45
