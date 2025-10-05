@@ -12,5 +12,4 @@ In the Bastion area, there are three black doors that are meant to open later in
 
 <img width="1393" height="917" alt="image" src="https://github.com/user-attachments/assets/1812797a-e171-47e9-ad53-314fc07416ad" />
 
-Watch on YouTube
- 🕦 07:25
+[Watch in YouTube](https://youtu.be/hgmzQxBSL5o)🕦 07:25
