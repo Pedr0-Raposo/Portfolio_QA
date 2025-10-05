@@ -3,10 +3,10 @@
 - **📅 Data do Beta:** 29/09/2025 - 19/10/2025
 - **🖥️ Plataforma:** PC
 
-- **📝 Descrição:** O rastro do personagem em formato de água é visto mesmo em locais mais altos ou abaixo do personagem em si
+- **📝 Descrição:** Acessando parte de baixo do mapa
   
-  ## ⚠ Bug encontrado - Apenas um bug visual, o rastro que o personagem deixa ao andar no formato de água pode ser visto em locais mais altos ou mais baixos por onde o personagem passa
+  ## ⚠ Bug encontrado - No local onde nós aprendemos a usar a habilidade "CanonBall" é possivel acessar uma pequena fisura na lateral esquerda do mapa com o formato de água, essa abertura da acesso a uma parte inferior do mapa.
 
-<img width="1281" height="701" alt="image" src="https://github.com/user-attachments/assets/b699581b-ea8a-418b-80df-9e41b7341747" />
+  <img width="1899" height="957" alt="image" src="https://github.com/user-attachments/assets/51b145e2-c1df-4a9e-b8e8-3035e3fdaaff" />
 
 [Assista no YouTube](https://youtu.be/hgmzQxBSL5o) 🕦 06:00
