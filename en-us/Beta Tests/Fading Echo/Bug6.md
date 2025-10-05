@@ -1,4 +1,4 @@
-🎮 Fading Echo – Alpha
+## 🎮 Fading Echo – Alpha
 
 📅 Beta Period: 09/29/2025 – 10/19/2025
 
@@ -6,7 +6,7 @@
 
 📝 Description: Accessing areas outside the map
 
-⚠ Bug Found
+## ⚠ Bug Found
 
 By using and absorbing the green orb, you can jump on the wall to the right and then onto the broken pillar to reach the upper section of the map. From there, it’s possible to freely explore, but many of the structures lack collision, so attempting to touch them will result in passing straight through.
 
